@@ -1,5 +1,9 @@
-<h1 align="center">Ansh</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Data Structures & Algorithms</h3>
+<h1 align="center">Hey 👋 I Am Ansh</h1>
+<h3 align="center">🚀 Full Stack Developer | DSA Enthusiast | Python Developer </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;DSA+with+Python+%26+C++;MERN+Stack+Learner;Always+Building+Always+Learning" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshlaad&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -7,113 +11,76 @@
 
 ---
 
-## Professional Summary
+## 🌟 About Me
 
-Pre-final year undergraduate student at **Medi-Caps University, Indore**, with strong hands-on experience in  
-**Full Stack Web Development (MERN Stack)** and **Data Structures & Algorithms**.  
-Skilled in building responsive, scalable web applications and solving algorithmic problems.  
-Actively seeking **software development internships and entry-level roles**.
-
----
-
-## Technical Skills
-
-### Programming Languages
-- C  
-- C++  
-- Python  
-- JavaScript  
-- SQL  
-
-### Frontend Development
-- HTML5, CSS3  
-- Bootstrap, Tailwind CSS  
-- React.js, Redux  
-- jQuery, GSAP  
-
-### Backend Development
-- Node.js  
-- Express.js  
-- MongoDB  
-
-### Tools & Platforms
-- Git, GitHub  
-- VS Code  
-- Postman  
-- AWS (Basics)  
-- Figma  
+- 🎓 **Final Year Student** at *Medi-Caps University, Indore*
+- 💻 Focused on **Full Stack Web Development (MERN)**
+- 🧠 Strong interest in **Data Structures & Algorithms**
+- 🚀 Love building **real-world & scalable projects**
+- 🤝 Open to **Internships, Collaborations & Learning**
+- 📫 Reach me at **anshlaad73@gmail.com**
 
 ---
 
-## Projects
+## 🛠 Tech Stack
 
-### 🔹 Full Stack Web Applications
-- Developed dynamic and responsive web applications using **React, Node.js, Express, and MongoDB**
-- Implemented **RESTful APIs**, authentication, and CRUD functionality
-- Focused on clean UI, performance optimization, and scalability
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,sql" />
+</p>
 
-### 🔹 Frontend Projects
-- Built modern UI using **Tailwind CSS & Bootstrap**
-- Implemented animations using **GSAP**
-- Ensured mobile-first and cross-browser compatibility
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux,jquery,gsap" />
+</p>
 
-*(Project repositories are pinned below for reference)*
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
----
-
-## Data Structures & Algorithms
-
-- Actively practicing **DSA using C++ and Python**
-- Strong understanding of:
-  - Arrays, Strings, Linked Lists  
-  - Stacks, Queues  
-  - Recursion & Backtracking  
-  - Searching & Sorting  
-  - Basic Trees & Hashing  
-- Focused on improving **problem-solving speed and logic**
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshlaad&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshlaad&theme=default" height="160"/>
+### ☁️ Tools & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,postman,figma" />
 </p>
 
 ---
 
-## Most Used Languages
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshlaad&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshlaad&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshlaad&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-## Key Strengths
-
-- Strong foundation in **Full Stack Development**
-- Good understanding of **software development lifecycle**
-- Experience with **API integration**
-- Ability to write **clean, maintainable, and scalable code**
-- Quick learner and team player
+## 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshlaad&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## Career Interests
+## 🏆 Achievements & Learning
 
-- Software Development Intern  
-- Frontend / Full Stack Developer (Entry-Level)  
-- Product-based & service-based companies  
-
----
-
-## Contact Information
-
-- 📧 Email: **anshlaad73@gmail.com**  
-- 💻 GitHub: https://github.com/anshlaad  
+- ✅ Completed multiple **Frontend & Backend Projects**
+- 📚 Actively practicing **DSA problems**
+- 🧪 Experience with **API integration & CRUD systems**
+- 🛠 Built responsive & modern UI using **Tailwind + React**
 
 ---
 
-*Open to internships, collaborative projects, and continuous learning opportunities.*
+## 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:anshlaad73@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/anshlaad">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+⭐ **If you like my work, feel free to star ⭐ my repositories!**
