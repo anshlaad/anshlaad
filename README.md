@@ -56,14 +56,6 @@
 
 ---
 
-## 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshlaad&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-
----
-
 ## 🏆 Achievements & Learning
 
 - ✅ Completed multiple **Frontend & Backend Projects**
